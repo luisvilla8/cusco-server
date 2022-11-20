@@ -1,0 +1,11 @@
+{
+  "main": "server.js",
+  "license": "ISC",
+  "author": "",
+  "scripts": {
+    "server": "node index.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.1"
+  }
+}
