@@ -18,5 +18,34 @@
       "email": "smith.@gmail.com",
       "password": "smith123"
     }
+  ],
+  "creditos": [
+    {
+      "id": 0,
+      "titulo": "Credito 1",
+      "cliente": "John Doe",
+      "montoTotal": 1000,
+      "montoPagado": 124,
+      "fechaCreacion": "2019-01-01",
+      "fechaPagado": "2019-01-01"
+    },
+    {
+      "id": 1,
+      "titulo": "Credito 2",
+      "cliente": "Jane Doe",
+      "montoTotal": 1000,
+      "montoPagado": 124,
+      "fechaCreacion": "2019-01-01",
+      "fechaPagado": "2019-01-01"
+    },
+    {
+      "id": 2,
+      "titulo": "Credito 3",
+      "cliente": "John Smith",
+      "montoTotal": 1000,
+      "montoPagado": 124,
+      "fechaCreacion": "2019-01-01",
+      "fechaPagado": "2019-01-01"
+    }
   ]
 }
